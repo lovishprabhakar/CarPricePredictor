@@ -97,7 +97,6 @@ python-dateutil
 python-json-logger
 pytz
 pytz-deprecation-shim
-pywinpty
 PyYAML
 pyzmq
 qtconsole
