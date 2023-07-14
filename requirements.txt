@@ -111,7 +111,6 @@ scipy
 seaborn
 Send2Trash
 six
-sklearn
 smmap
 sniffio
 soupsieve
